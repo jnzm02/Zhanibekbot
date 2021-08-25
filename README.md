@@ -1,0 +1,2 @@
+# Zhanibekbot
+echo bot
