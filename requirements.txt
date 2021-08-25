@@ -1,0 +1,4 @@
+pytelegrambotapi
+pyowm
+colorama
+aiogram

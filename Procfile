@@ -1,0 +1,1 @@
+worker Zhanibekbot.py
